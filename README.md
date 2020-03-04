@@ -1,5 +1,5 @@
-#py_proj
+# py_proj
 
-##Python project
+## Python project
 
 You can run py1.py [Here](https://py1.erdav544.repl.run)

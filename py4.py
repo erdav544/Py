@@ -1,17 +1,13 @@
 #CREATED BY HENDRICK
 #06 - 03 - 20
-#CLEAN CODE STYLE
-#BETA VERSION
 
 print (' <!-- START PROGRAM --> ')
 
 print ('\n') # Create empty line
 
-print (' <!--- BETA VERSION -->\n')
+print (' <!--- Program belum sempurna -->\n')
 
-for one in range(1, 4): # Create the sequences
-
-  # Create static condition program
+for one in range(1, 4): # Create sequence
 
     if one == 3:
 

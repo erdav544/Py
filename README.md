@@ -1,3 +1,3 @@
 # Python project
-### py1
-You can run py1.py [Here](https://py1.erdav544.repl.run)
+### py2
+You can run py2.py [Here](https://py1.erdav544.repl.run)
